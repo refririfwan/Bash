@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author : Refri Rifwan Daharmi - 155150201111159
+# Author : Refri Rifwan Daharmi
 # ===== Cara Menjalankan Program =====
 # $ ./CariFile.sh atau $ bash CariFile.sh
 
